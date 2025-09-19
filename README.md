@@ -6,7 +6,7 @@ NA
 
 ## Verbal Collaboration
 
-| TA           | vishnubh  |
+| TA           | TA        |
 | ------------ | --------- |
 | TA           | TA        |
 | `<Add more>` | `<CCID>`  |
