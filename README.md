@@ -2,11 +2,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+NA
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
+| TA           | vishnubh  |
 | ------------ | --------- |
-| `student`    | `student` |
+| TA           | TA        |
 | `<Add more>` | `<CCID>`  |
